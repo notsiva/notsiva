@@ -1,9 +1,8 @@
 ## Hi, I'm Sivakaran -
 
 🏫 Completed Computer Science and Engineering at Paavai Engineering College <br>
-⚒️ Software Engineer at Adroit Soft India Private Limitted <br>
+⚒️ Worked on as a Software Engineer at Adroit Soft India Private Limitted <br>
 🌃 Likes Astronomy <br>
-😊 Watch anime when i got bored
 
 
 # 💻 Tech Stack:
